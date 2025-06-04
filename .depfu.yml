@@ -1,0 +1,6 @@
+npm:
+  package_groups:
+    ppg:
+      - @depfutest/ppg-one
+      - @depfutest/ppg-two
+      - @depfutest/ppg-three
