@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "@depfutest/ppg-one": "^1.0.0",
-    "@depfutest/ppg-two": "^1.0.0"
+    "@depfutest/ppg-two": "^1.0.1"
   }
 }
